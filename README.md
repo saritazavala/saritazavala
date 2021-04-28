@@ -26,8 +26,8 @@ I am a **CiberSecurity intern** at Guatemala City:
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 
-<summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center" width="28" /> How to reach me: </h2></summary>
-<p align = "center"></p>
+### Languages and Tools 🛠 
+
 ![Facebook](http://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=ffffff)
 
 
