@@ -28,7 +28,7 @@ I am a **CiberSecurity intern** at Guatemala City:
 
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center" width="28" /> How to reach me: </h2></summary>
 <p align = "center">
-[<img src="https://img.shields.io/badge/-Facebook-187FF2?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/sarita.zavala11)
+![Facebook](http://img.shields.io/badge/-Facebook-3776AB?style=flat-square&logo=facebook&logoColor=ffffff)
 
 
 </p>
