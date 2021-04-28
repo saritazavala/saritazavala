@@ -29,7 +29,7 @@ I am a **CiberSecurity intern** at Guatemala City:
 ### Languages and Tools 🛠 
 
 ![Facebook](http://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=ffffff)(https://www.facebook.com/sarita.zavala11)
-![Twitter](http://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=ffffff)(https://twitter.com/sarita_zavala)
+
 
 
 
