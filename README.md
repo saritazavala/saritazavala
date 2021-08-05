@@ -1,14 +1,14 @@
 ### Hi there 👋
 
 
-I am a **CiberSecurity intern** at Guatemala City:
+I am a **CiberSecurity intern** at Guatemala City: 
 
 - 👨‍💻 I’m currently working at **SISAP**
 - 📚  I’m currently learning **Windows Server & Cloud Security**
 - 🤔 I’m looking for help with **Animation programming**
 - ⚡ Fun fact: I like to watch **Spanish streamers** 
 
-#### Languages and Tools 🛠 
+#### Languages and Tools🛠 
 
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
 ![Java](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
