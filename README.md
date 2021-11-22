@@ -4,9 +4,9 @@
 I am a **CiberSecurity intern** at Guatemala City: 
 
 - 👨‍💻 I’m currently working at **SISAP**
-- 📚  I’m currently learning **Windows Server & Cloud Security**
+- 📚  I’m currently learning **CiberSecurity PMO**
 - 🤔 I’m looking for help with **Animation programming**
-- ⚡ Fun fact: I like to watch **Spanish streamers** 
+- ⚡ Fun fact: I like to watch **Spanish streamers and Money Heist** 
 
 #### Languages and Tools🛠 
 
