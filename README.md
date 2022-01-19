@@ -29,7 +29,6 @@ I am a **CiberSecurity intern** at Guatemala City:
 #### How to reach me: 📫 
 
 [![Facebook](http://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=ffffff&link=https://www.facebook.com/sarita.zavala11)](https://www.facebook.com/sarita.zavala11)
-[![Twitter](http://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=ffffff&link=https://twitter.com/sarita_zavala)](https://twitter.com/sarita_zavala)
 [![Linkedin](http://img.shields.io/badge/-Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=ffffff&link=https://www.linkedin.com/in/sara-zavala-0942091ba/)](https://www.linkedin.com/in/sara-zavala-0942091ba/)
 [![Gmail Badge](https://img.shields.io/badge/-saritazg2010@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:saritazg2010@gmail.com)](mailto:saritazg2010@gmail.com)
 
