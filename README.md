@@ -4,7 +4,7 @@
 I am a **CiberSecurity intern** at Guatemala City: 
 
 - 👨‍💻 I’m currently working at **SISAP**
-- 📚  I’m currently learning **CiberSecurity PMO**
+- 📚  I’m currently learning **CiberSecurity Outsourcing Engineer**
 - 🤔 I’m looking for help with **Animation programming**
 - ⚡ Fun fact: I like to watch **Spanish streamers and Money Heist** 
 
