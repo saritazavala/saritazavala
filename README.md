@@ -5,7 +5,7 @@ I am a **Outsourcing L1 Engineer** at Guatemala City:
 - 👨‍💻 I’m currently working at **SISAP**
 - 📚  I’m currently learning **CiberSecurity Outsourcing Engineer**
 - 🤔 I’m looking for help with **Animation programming**
-- ⚡ Fun fact: I like to watch **I like to collect funko pops** 
+- ⚡ Fun fact: **I like to collect funko pops** 
 
 #### Languages and Tools🛠 
 
