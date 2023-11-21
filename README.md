@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I am a **Outsourcing L1 Engineer** at Guatemala City: 
+I am a **CyberSecurity Engineer** at Guatemala City: 
 
-- 👨‍💻 I’m currently working at **SISAP**
-- 📚  I’m currently learning **CiberSecurity Outsourcing Engineer**
-- 🤔 I’m looking for help with **Animation programming**
+- 👨‍💻 I’m currently working at **EY**
+- 📚  I’m currently learning **NIST CSF**
+- 🤔 I’m looking for help with **Animation Design**
 - ⚡ Fun fact: **I like to collect funko pops** 
 
 #### Languages and Tools🛠 
